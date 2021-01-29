@@ -11,11 +11,17 @@ sections:
   - section_id: about
     type: section_content
     title: About
-    content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+    content: >
+      Situé à seulement 5 minutes en voiture du centre d'Argelès-sur-Mer, le
+      Gite Saint Julien propose un hébergement indépendant avec une piscine
+      extérieure commune. Le front de mer se trouve à seulement 10 minutes de
+      route. Tous les logements disposent d'une terrasse privée, d'un coin salon
+      avec une télévision à écran plat et d'une salle de bains munie d'un
+      sèche-cheveux. Leur cuisine comprend un four, un four micro-ondes et une
+      cuisinière. Vous trouverez des épiceries et des restaurants à moins de 2
+      km. Une connexion Wi-Fi est disponible gratuitement. Vous profiterez en
+      outre d'un barbecue et d'un jardin. Cet établissement se situe à 24 km de
+      l'aéroport de Perpignan-Rivesaltes.
     actions:
       - label: Contact Me
         url: /contact
