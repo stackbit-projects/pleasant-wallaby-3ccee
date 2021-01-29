@@ -41,6 +41,13 @@ sections:
         new_window: false
         no_follow: false
         type: action
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: link
+        icon_class: lorem-ipsum
+        new_window: false
+        no_follow: false
+        type: action
   - section_id: recent-posts
     type: section_posts
     title: Recent Posts
